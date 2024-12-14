@@ -51,3 +51,15 @@ C:\Users\elias\Desktop\ToolShopAPI\obj\Debug\net8.0\refint\ToolShopAPI.dll
 C:\Users\elias\Desktop\ToolShopAPI\obj\Debug\net8.0\ToolShopAPI.pdb
 C:\Users\elias\Desktop\ToolShopAPI\obj\Debug\net8.0\ToolShopAPI.genruntimeconfig.cache
 C:\Users\elias\Desktop\ToolShopAPI\obj\Debug\net8.0\ref\ToolShopAPI.dll
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\web.config
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\web.config
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\appsettings.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\appsettings.Development.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\appsettings.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\ToolShopAPI.deps.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\ToolShopAPI.runtimeconfig.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\out\ToolShopAPI.staticwebassets.endpoints.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\ToolShopAPI.deps.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\ToolShopAPI.runtimeconfig.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Debug\net8.0\out\ToolShopAPI.staticwebassets.endpoints.json

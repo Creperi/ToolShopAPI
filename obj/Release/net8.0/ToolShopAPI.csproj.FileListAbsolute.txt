@@ -56,3 +56,9 @@ C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\appsettings.json
 C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\ToolShopAPI.deps.json
 C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\ToolShopAPI.runtimeconfig.json
 C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\ToolShopAPI.staticwebassets.endpoints.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\web.config
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\appsettings.Development.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\appsettings.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\ToolShopAPI.deps.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\ToolShopAPI.runtimeconfig.json
+C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net8.0\out\out\ToolShopAPI.staticwebassets.endpoints.json
