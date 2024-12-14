@@ -1,6 +1,12 @@
 C:\Users\elias\Desktop\ToolShopAPI\out\ToolShopAPI.exe
+C:\Users\elias\Desktop\ToolShopAPI\out\out\web.config
 C:\Users\elias\Desktop\ToolShopAPI\out\appsettings.Development.json
 C:\Users\elias\Desktop\ToolShopAPI\out\appsettings.json
+C:\Users\elias\Desktop\ToolShopAPI\out\out\appsettings.Development.json
+C:\Users\elias\Desktop\ToolShopAPI\out\out\appsettings.json
+C:\Users\elias\Desktop\ToolShopAPI\out\out\ToolShopAPI.deps.json
+C:\Users\elias\Desktop\ToolShopAPI\out\out\ToolShopAPI.runtimeconfig.json
+C:\Users\elias\Desktop\ToolShopAPI\out\out\ToolShopAPI.staticwebassets.endpoints.json
 C:\Users\elias\Desktop\ToolShopAPI\out\ToolShopAPI.dll
 C:\Users\elias\Desktop\ToolShopAPI\out\ToolShopAPI.deps.json
 C:\Users\elias\Desktop\ToolShopAPI\out\ToolShopAPI.runtimeconfig.json
