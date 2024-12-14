@@ -1,1 +1,2 @@
-web: dotnet out/ToolShopAPI.dll
+heroku run bash
+dotnet out/ToolShopAPI.dll
