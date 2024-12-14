@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\elias\Desktop\ToolShopAPI\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2024-12-02T15:18:41.3058867Z||;True|2024-12-02T03:19:21.0003520+02:00||;False|2024-12-02T03:18:17.2712230+02:00||;True|2024-12-02T03:03:32.1995464+02:00||;False|2024-12-02T03:02:44.7571526+02:00||;True|2024-12-02T02:07:42.8829611+02:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DatabaseConnection">
+      <Value>mongodb+srv://elias84631:j9BA8ZkmQu4FEBj9%40toolusageapp.yz8x2.mongodb.net/%3fretryWrites=true&amp;w=majority&amp;appName=ToolUsageApp</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mcFXNXHyxGGudbVwEyaMKSbsNEHNORyS3fYftcb9PlQ=",
+  "Source": "ToolShopAPI",
+  "BasePath": "_content/ToolShopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

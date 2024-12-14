@@ -1,0 +1,6 @@
+@ToolShopAPI_HostAddress = http://localhost:5278
+
+GET {{ToolShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
